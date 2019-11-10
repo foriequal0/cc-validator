@@ -1,0 +1,19 @@
+baseurl = "https://foriequal0.github.io/cc-validator/"
+languageCode = "en-us"
+title = "SeongChan Lee, CodeChain Validator"
+theme = "slim"
+
+#
+# Personalization params
+#
+[params]
+  Subtitle = ""
+  GithubID = "foriequal0"
+  TwitterID = "lee_seongchan"
+  #AnalyticsID = "Your Google Analytics tracking code"
+  #DisqusShortname = "Your Disqus shortname"
+  Summary = false  # takes true or false
+  Content = true  # takes true or false
+  # if both are set to true, summary is shown.
+  # FooterMsg = "Copyright Me 2016. Powered by Hugo."
+  mainSections = ["post"]
